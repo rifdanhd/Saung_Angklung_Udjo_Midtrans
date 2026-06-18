@@ -1,0 +1,1 @@
+<img src="{{ asset('images/UdjoFullColor.png') }}" alt="Logo" {{ $attributes->class('h-16') }}>
